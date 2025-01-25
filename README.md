@@ -1,3 +1,2 @@
 # shoplink-landingpage
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/stevenleep/shoplink-landingpage)
+https://extraordinary-gingersnap-153920.netlify.app/
